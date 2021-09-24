@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mahicm
+- 👋 Hi, I’m @ Mahindha
 - 👀 I’m interested AI/Machine learning/ Data Science
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
