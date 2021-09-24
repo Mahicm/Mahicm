@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mahicm
 - 👀 I’m interested AI/Machine learning/ Data Science
-- 🌱 I’m currently learning pyhton
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on email: mahichinu02@gmil.com
 
